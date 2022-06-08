@@ -1,0 +1,18 @@
+.guestTitle {
+    font-weight: normal;
+
+}
+.guest {
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 400px;
+    text-align: center;
+}
+
+.captions {
+    text-align: left;
+}
+
+.podcastImage {
+    width: 300px !important;
+}
